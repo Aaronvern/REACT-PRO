@@ -1,3 +1,6 @@
+
+
+
 function customRender(reactElement,container){
     const domElement = document.createElement (reactElement.type)
     domElement.innerHTML = reactElement.children
@@ -14,10 +17,10 @@ function customRender(reactElement,container){
 const reactElement = {
     type:'a',
     props:{
-        href: 'https://youtu.be/dQw4w9WgXcQ?si=rC0CCmR8YysU-FJP',
-        target: 'https://youtu.be/dQw4w9WgXcQ?si=rC0CCmR8YysU-FJP'
+        href: 'https://api.writco.in/assets/images/post/user/quote/365200911060227328.webp',
+        target: 'https://api.writco.in/assets/images/post/user/quote/365200911060227328.webp'
     },
-     children:'click me you are not gay'
+     children:'click me if you are not gay'
 }
 
 
