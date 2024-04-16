@@ -20,4 +20,4 @@ This is a simple React application that implements a basic counter functionality
 - CSS
 
 ## Preview
-![Preview](counter-preview.png)
+![Preview](counter-previw.png)
