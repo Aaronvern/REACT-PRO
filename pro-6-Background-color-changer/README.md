@@ -15,4 +15,4 @@ This is a simple background generator built using React. It allows users to chan
 
 ## Preview
 
-![Background Generator preview](assets\preview.png)
+![Background Generator preview](assets/preview.png)
