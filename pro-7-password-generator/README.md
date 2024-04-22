@@ -26,4 +26,4 @@ This application generates random passwords based on user preferences for length
 - **useEffect:** Used to trigger the `passwordGenerator` function when dependencies like `length`, `noAllowed`, `charAllowed`, or `password` change.
 
 ## preview
-![preview ](/assets/preview.png)
+![preview ](assets/preview.png)
