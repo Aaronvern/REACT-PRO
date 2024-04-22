@@ -54,3 +54,6 @@ This project is a currency converter web application built using React. It allow
 
 - **Usage**: Utilizes Tailwind CSS for responsive layout design.
 - **Benefits**: Enables rapid development through utility-first styling, ensuring a consistent user experience across devices.
+
+##preview
+![preview ](/assets/Screenshot%202024-04-22%20234504.png)
