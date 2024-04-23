@@ -27,7 +27,7 @@ function InputBox({
                     disabled={amountDisable}
                     value={amount}
                     onChange={(e)=> onAmountChange && onAmountChange(Number(e.target.value))}
-                />
+                /> 
             </div>
             <div className="w-1/2 flex flex-wrap justify-end text-right">
                 <p className="text-black/40 mb-2 w-full">Currency Type</p>
