@@ -12,9 +12,5 @@ React Context APIs provide a powerful way to manage state across an entire appli
 - Implements a dark mode to light mode switcher for enhanced user experience.
 - Provides a practical example of Context APIs in action within a React project.
 
-## Usage
 
-To use this project to learn about React Context APIs:
-
-1. Clone this repository to your local machine:
 
