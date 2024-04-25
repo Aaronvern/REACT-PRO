@@ -31,3 +31,4 @@ The second part of the project focuses on implementing a dark mode to light mode
 - **React:** A JavaScript library for building user interfaces.
 - **React Context API:** A feature in React for managing global state.
 
+![Preview of loginpage](./assets/Screenshot%202024-04-26%20015835.png)
